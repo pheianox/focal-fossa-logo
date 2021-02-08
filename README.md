@@ -1,6 +1,7 @@
 # Ubuntu Focal Fossa Logo
 
 This small python program draws the logo of Ubuntu 20.4 (Focal Fossa).
+It uses the `tutle` libarary.
 
 ## 📋 Requirements
 - Tkinter
