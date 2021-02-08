@@ -9,4 +9,4 @@ It uses the `tutle` libarary.
 ## ℹ️ How to run
 1. Go ahead and clone this whole repository.
 2. Open your terminal (or cmd if you use Windows).
-2. Run *main.py using* `python3 main.py` bash command.
+2. Run *main.py* using `python3 main.py` bash command.
